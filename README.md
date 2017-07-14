@@ -72,9 +72,9 @@ For Mac operating system, the simplest way to install it is using brew.
 
 For windows systems.
 
-    By giving absolute path of the geckodriver which can be dowloaded [here](https://github.com/mozilla/geckodriver/releases)
+By giving absolute path of the geckodriver which can be dowloaded [here](https://github.com/mozilla/geckodriver/releases)
 
-        `java -Dwebdriver.gecko.driver=C:/geckodriver/geckodriver.exe -jar selenium-server-standalone-x.x.x.jar`
+    `java -Dwebdriver.gecko.driver=C:/geckodriver/geckodriver.exe -jar selenium-server-standalone-x.x.x.jar`
         
 
 About Facebook php-webdriver
